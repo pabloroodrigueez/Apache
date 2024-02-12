@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  WebPersonalizado:
+    image: apachepropio
+    ports:
+      - "8999:80"
